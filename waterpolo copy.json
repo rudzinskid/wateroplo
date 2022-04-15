@@ -1,0 +1,155 @@
+{
+    "match": {
+        "title": "aaaaaa",
+        "matchCode": "azsuw-polbytom",
+        "data": "1",
+        "miejsce": "aaa",
+        "Rywal": "sss",
+        "wynik": {
+            "a": 2,
+            "r": 3
+        },
+        "zawodnik": [
+            {
+                "name": "Nera",
+                "number": 12,
+                "sprint": 1,
+                "asysta": 2,
+                "time": 22,
+                "impact": {
+                    "sprint": 1,
+                    "asysta": 2,
+                    "wyw. karny": 2,
+                    "wyw. wylotka": 1
+                },
+                "strzal": {
+                    "Akcja": {
+                        "Pol": {
+                            "bramka": 1,
+                            "nabramke": 1,
+                            "pudlo": 1
+                        },
+                        "Dob": {
+                            "bramka": 1,
+                            "nabramke": 1,
+                            "pudlo": 1
+                        },
+                        "Kon": {
+                            "bramka": 1,
+                            "nabramke": 1,
+                            "pudlo": 1
+                        },
+                        "Kar": {
+                            "bramka": 1,
+                            "nabramke": 1,
+                            "pudlo": 1
+                        }
+                    }
+                },
+                "straty": {
+                    "Pole": {
+                        "z pilka": 1,
+                        "kontrafaul": 1
+                    },
+                    "Dobijak": {
+                        "z pilka": 1,
+                        "kontrafaul": 1
+                    }
+                },
+                "obrona": {
+                    "blok": 1,
+                    "przechwyt": 1,
+                    "dobijak": 1,
+                    "defensive breakdown": 1
+                },
+                "przewinienia": {
+                    "wylotka": 1,
+                    "Dobijak": 1,
+                    "Karny": 1
+                },
+                "czas": [
+                    {
+                        "wejscie": 3,
+                        "wyjscie": 4
+                    },
+                    {
+                        "wejscie": 7,
+                        "wyjscie": 9
+                    }
+                ]
+            }
+        ],
+        "bramkarz": [
+            {
+                "name": "Nera",
+                "number": 12,
+                "sprint": 1,
+                "asysta": 2,
+                "time": 22,
+                "pole": [
+                    {
+                        "bramka": "34"
+                    },
+                    {
+                        "bramka": "12"
+                    },
+                    {
+                        "nabramke": "22"
+                    },
+                    {
+                        "pudlo": 22
+                    }
+                ],
+                "dobijak": [
+                    {
+                        "bramka": "34"
+                    },
+                    {
+                        "bramka": "12"
+                    },
+                    {
+                        "nabramke": "22"
+                    },
+                    {
+                        "pudlo": 22
+                    }
+                ],
+                "przewagaBramkarz": [
+                    {
+                        "bramka": "34"
+                    },
+                    {
+                        "bramka": "12"
+                    },
+                    {
+                        "nabramke": "22"
+                    },
+                    {
+                        "pudlo": 22
+                    }
+                ],
+                "kontra": [
+                    {
+                        "bramka": "34"
+                    },
+                    {
+                        "bramka": "12"
+                    },
+                    {
+                        "nabramke": "22"
+                    },
+                    {
+                        "pudlo": 22
+                    }
+                ]
+            }
+        ],
+        "przewaga": [
+            {
+                "numerZagrywki": 11,
+                "numerZawodnika": 22,
+                "czyTrafiona": ""
+            }
+        ]
+    }
+}

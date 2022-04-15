@@ -1,0 +1,850 @@
+{
+    "meczKod": "azsuw-polbytom",
+    "zawodnik": [
+        {
+            "nazwa": "Nera1",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera2",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera3",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera4",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera5",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera6",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera7",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera8",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera9",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera10",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera11",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera12",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        },
+        {
+            "nazwa": "Nera13",
+            "numer": 12,
+            "impact": {
+                "sprint": 1,
+                "asysta": 2,
+                "wywKarny": 2,
+                "wywWylotka": 1
+            },
+            "strzal": {
+                "akcja": {
+                    "pol": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "dob": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kon": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    },
+                    "kar": {
+                        "bramka": 1,
+                        "naBramke": 1,
+                        "pudlo": 1
+                    }
+                }
+            },
+            "straty": {
+                "pole": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                },
+                "dobijak": {
+                    "pilka": 1,
+                    "kontrafaul": 1
+                }
+            },
+            "obrona": {
+                "blok": 1,
+                "przechwyt": 1,
+                "dobijak": 1,
+                "załamanieObronne": 1
+            },
+            "przewinienia": {
+                "wylotka": 1,
+                "dobijak": 1,
+                "Karny": 1
+            },
+            "czas": [
+                {
+                    "wejscie": 3,
+                    "wyjscie": 4
+                },
+                {
+                    "wejscie": 7,
+                    "wyjscie": 9
+                }
+            ]
+        }
+    ]
+}

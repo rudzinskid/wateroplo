@@ -1,0 +1,15 @@
+{
+    "matchCode": "azsuw-polbytom",
+    "przewaga": [
+        {
+            "numerZagrywki": 11,
+            "numerZawodnika": 22,
+            "czyTrafiona": "t"
+        },
+        {
+            "numerZagrywki": 121,
+            "numerZawodnika": 232,
+            "czyTrafiona": "t"
+        }
+    ]
+}

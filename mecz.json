@@ -1,0 +1,13 @@
+{
+    "mecz": {
+        "nazwa": "aaaaaa",
+        "kodMeczu": "azsuw-polbytom",
+        "data": "1",
+        "miejsce": "aaa",
+        "rywal": "sss",
+        "wynik": {
+            "a": 2,
+            "r": 3
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "matchCode": "azsuw-polbytom",
+    "bramkarz": [
+        {
+            "name": "Elvis1",
+            "number": 12,
+            "sprint": 1,
+            "asysta": 2,
+            "czas": 22,
+            "pole": [
+                {
+                    "bramka": "34"
+                },
+                {
+                    "bramka": "12"
+                },
+                {
+                    "nabramke": "22"
+                },
+                {
+                    "pudlo": 22
+                }
+            ],
+            "dobijak": [
+                {
+                    "bramka": "34"
+                },
+                {
+                    "bramka": "12"
+                },
+                {
+                    "nabramke": "22"
+                },
+                {
+                    "pudlo": 22
+                }
+            ],
+            "przewagaBramkarz": [
+                {
+                    "bramka": "34"
+                },
+                {
+                    "bramka": "12"
+                },
+                {
+                    "nabramke": "22"
+                },
+                {
+                    "pudlo": 22
+                }
+            ],
+            "kontra": [
+                {
+                    "bramka": "34"
+                },
+                {
+                    "bramka": "12"
+                },
+                {
+                    "nabramke": "22"
+                },
+                {
+                    "pudlo": 22
+                }
+            ]
+        }
+    ]
+}
